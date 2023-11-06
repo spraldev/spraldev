@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spraldev
 - 👀 I’m interested in web development
-- 🌱 I’m currently working on an entry to the congressinoal app challenge
+- 🌱 I’m currently working on a secret project :o
 - 📫 How to reach me: spral on discord
 
 <!---
